@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETFrameworkWebApplication", "ASPNETFrameworkWebApplication\ASPNETFrameworkWebApplication.csproj", "{F9C4B213-5F74-458B-8742-C31EEFE0D5D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C4B213-5F74-458B-8742-C31EEFE0D5D4}.Debug|x64.ActiveCfg = Debug|x64
+		{F9C4B213-5F74-458B-8742-C31EEFE0D5D4}.Debug|x64.Build.0 = Debug|x64
+		{F9C4B213-5F74-458B-8742-C31EEFE0D5D4}.Release|x64.ActiveCfg = Release|x64
+		{F9C4B213-5F74-458B-8742-C31EEFE0D5D4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BD76499-C3B6-48DE-9E65-D4ABC552BB7B}
+	EndGlobalSection
+EndGlobal
